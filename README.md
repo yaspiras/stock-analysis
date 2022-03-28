@@ -2,11 +2,11 @@
 
 ## **Overview of Project**
 
-####The purpose of this project is to refactor a VBA script for stock analysis.  The goal is to decrease the amount of time to run the macro.
+The purpose of this project is to refactor a VBA script for stock analysis.  The goal is to decrease the amount of time to run the macro.
 
 ## **Results**
 
-####Unfortunately, the refactoring project did not come to fruition as there were a lot of bugs on the refactored macro.  The refactoring is incomplete.  The macro if attempted to run actually freezes up the Excel file.
+Unfortunately, the refactoring project did not come to fruition as there were a lot of bugs on the refactored macro.  The refactoring is incomplete.  The macro if attempted to run actually freezes up the Excel file.
 ## **Summary**
 
 ###Advantages of Refactoring a Code:
