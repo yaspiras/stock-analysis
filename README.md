@@ -6,11 +6,12 @@ The purpose of this project is to refactor a VBA script for stock analysis.  The
 
 ## **Results**
 
-Unfortunately, the refactoring project did not come to fruition as there were a lot of bugs on the refactored macro.  The refactoring is incomplete.  The macro if attempted to run actually freezes up the Excel file.
+Unfortunately, the refactoring project did not come to fruition as there were a lot of bugs on the refactored macro.  The refactoring is incomplete.  The macro if attempted to run actually freezes up the Excel file.  To view the attempted refactoring, open the VBA_Challenge.xlsm file.  The refactoring is inside Module 4.
+
 ## **Summary**
 
 ###Advantages of Refactoring a Code:
-####- if successful, increases efficiency of macro
+- if successful, increases efficiency of macro
 
 ###Disdvantages of Refactoring a Code:
-####- successful outcome solely depends on the level of understanding, resourcefulness and experience of the macro writer
+- successful outcome solely depends on the level of understanding, resourcefulness and experience of the macro writer
